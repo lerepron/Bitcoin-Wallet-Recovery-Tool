@@ -1,4 +1,4 @@
-```
+
 # Bitcoin Wallet Recovery Tool
 
 ## Description
@@ -28,4 +28,3 @@ Locate the extracted folder and run Setup.exe to begin the installation process.
 ## License
 This project is released under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
